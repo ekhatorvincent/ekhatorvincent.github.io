@@ -1,0 +1,152 @@
+.col{ border-style: solid;
+    border-width: 5px;
+    margin-top: 40px;
+    margin-bottom: 80; 
+    padding-left: 50px;
+    background-color: #ccc;
+    padding-bottom: 600px;
+    border-color: blueviolet; 
+    padding-top: 11px;
+}
+
+
+body{ 
+    background-color:black;
+    background-image: url(background-picture.png)
+}
+
+h1{
+    text-align: center;
+    font-size: 1cm;
+    background-color: yellow;
+    border-style: solid;
+    border-color: green;
+    padding: 7px; 
+    /* width: 350px;  */
+}
+
+h1:hover { 
+    background-color: blue;
+}
+
+.nav-link:hover{
+    background-color: red;
+}
+
+.nav-link{
+    border: 12px;
+    margin: 20px;
+    /* border-style: line; ask of boaeder style */
+    font-family: 'Times New Roman', Times, serif;
+}
+.color-white{
+    color: white;
+}
+
+h5{
+    background-color: #ec538e;
+}
+#col1{
+    background-color: green;
+    width: 50px;
+    height: 590px;
+    float: left;
+    padding: 0%;
+   
+}
+
+    
+
+#col1 .image{
+    width: 300px;
+    height: 100px;
+
+    
+}
+
+#col3{
+    background-color: #e9dce7;
+    padding: 0%;
+}
+#col4{
+    background-color: aqua;
+    padding: 0%;
+}
+#col2{
+    background-color: #ec538e;
+    padding: 0%;
+}
+.col {
+    padding: px;
+    margin: 11px;
+    background-color: blue; 
+}
+   /* Here is where the login css stated from 
+.box{
+    position: absolute;
+    top: 0%;
+    left:7%;
+    transform: translate(-50%,-50%,);
+    width: 250px;
+    padding: 50px;
+    background:rgba(0,0,0,8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgb(red, green, blue);
+    border-radius:10px;
+
+}
+.box h2
+{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    color: aqua;
+}
+.box .inputBox{
+    position: relative;
+}
+
+.box .inputBox input{
+    width: 100%;
+    padding: 1px 0;
+    font-size: 16px;
+    color: hsla(0, 0%, 100%, 0.827);
+    margin-bottom: 14px;
+   
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+    /* box-align: left; */
+/* }
+.box .inputBox label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 7px 0;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing: 1px;
+    pointer-events: none;
+    transition: .5s;
+}
+.box .inputBox input:focus ~ label,
+.box .inputBox input:valid ~ label {
+    top: -18px;
+    left: 0;
+    color: #03a9f4;
+    font-size: 12px;
+}
+.box input[type="submit"]
+{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #03a9f4;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}    */ 
