@@ -8,7 +8,9 @@
     border-color: blueviolet; 
     padding-top: 11px;
 }
-
+p{ 
+    /* background-color: hsl(244, 70%, 72%); */
+}
 
 body{ 
     background-color:black;
